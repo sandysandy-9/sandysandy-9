@@ -1,7 +1,13 @@
 <h1 align="center">✨ Welcome to My GitHub Profile ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Parise+Chaitanya+Krishna+Sandeep!;Frontend+Dev+%7C+Mental+Health+Tech+%7C+UI%2FUX+%26+Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
+  <b>Hi, I'm Parise Chaitanya Krishna Sandeep!</b><br/>
+  <i>Tech Explorer · Mental Health Tech · UI/UX · Open Source Enthusiast</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FFFF&width=435&lines=Exploring+AI+%26+NLP;Frontend+%2B+UI%2FUX+Design+Enthusiast;Open+Source+Contributor+%7C+GSoC+Hopeful" alt="Typing animation" />
 </p>
 
 ---
