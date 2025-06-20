@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 **sandysandy-9/sandysandy-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hi there, I'm [Parise ChaiatanyaKrishna Sandeep]!
@@ -15,7 +13,4 @@ I'm a student and tech enthusiast exploring the world of open source, AI, and me
 ## Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/parise-sandeep/)
 - [googlefordevelopers](https://g.dev/sandeep_bharathcollage)
-
----
-
-> "Code that cares — building for real people, real impact."
+"Code that cares — building for real people, real impact."
