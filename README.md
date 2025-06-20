@@ -1,59 +1,104 @@
-<h1 align="center">Hi there, I'm Parise Chaitanya Krishna Sandeep 👋</h1>
+<h1 align="center">✨ Welcome to My GitHub Profile ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Tech+Enthusiast+%7C+AI+%26+NLP+Learner;Mental+Health+%26+Ethical+AI+Advocate;Open+Source+Contributor+%7C+GSoC+Hopeful" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Hi" />
+  <b>Hi, I'm Parise Chaitanya Krishna Sandeep!</b> <br/>
+  <i>Tech Explorer | Mental Health Tech | UI/UX & Open Source Enthusiast</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=000000&width=435&lines=Exploring+AI+%26+NLP;Frontend+%2B+UI%2FUX+Design+Enthusiast;Open+Source+Contributor+%7C+GSoC+Hopeful" alt="Typing animation" />
 </p>
 
 ---
 
-### 💡 About Me
-- 🧠 Tech enthusiast exploring *AI & NLP*
-- ❤ Passionate about *mental health* and *ethical AI*
+### 👨‍💻 About Me
+
+- 🌟 *GSoC 2025 Aspirant*
+- 💻 Interested in *Frontend Development, **UI/UX Design, and **Data Entry*
+- 🧠 Exploring AI, NLP, and Mental Health Tech
 - 🌱 Currently learning: HuggingFace, FastAPI, React
-- 👨‍💻 Active in the open source community — always excited to learn & grow
-- 🎯 *GSoC 2025 Aspirant*
+- 🎨 Designing with: Figma, Canva
+- 🤝 Excited to grow through *open source* & community learning
 
 ---
 
-### 🛠 Tools & Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### ⚒ Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-00C7B7?style=for-the-badge&logo=fastapi)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
-### 📌 Featured Projects
+### 🎨 UI/UX & Figma Designs
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [emotion-classifier-app](https://github.com/sandysandy-9/emotion-classifier-app) | 🌈 A Streamlit web app that uses HuggingFace transformers to detect emotions from user text | Python, NLP, Streamlit |
-| [Student-Performance-Predictor](https://github.com/sandysandy-9/Student-Performance-Predictor) | 📊 Jupyter Notebook to predict student performance using ML | Jupyter, scikit-learn |
-| [Human-validator-form](https://github.com/sandysandy-9/Human-validator-form) | 🧾 A basic HTML form for validation exercises | HTML, JavaScript |
-| [sandysandy-9](https://github.com/sandysandy-9/sandysandy-9) | ✨ This very profile README | Markdown |
+Check out some of my UI/UX and design work:
 
----
+- 🖼 *Mental Health App UI* — [Figma Link](https://www.figma.com/) (replace with your own)
+- 📋 *Feedback Form Wireframe* — [Figma Link](https://www.figma.com/)
+- 📱 *Mobile Dashboard Mockup* — [Figma Link](https://www.figma.com/)
 
-### 🤝 Let’s Connect
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parise-sandeep/)
-- [![Google Developer Profile](https://img.shields.io/badge/Google%20for%20Developers-blue?logo=google&logoColor=white)](https://g.dev/sandeep_bharathcollage)
-- 📫 Email: parisesandeep27@gmail.com
+> Designing for impact — user-friendly, inclusive, and clean UI.
 
 ---
 
-### 💬 Quote I Live By
-> "Code that cares — building for real people, real impact."
+### 🔥 Highlight Projects
+
+| 🌟 Name | 🚀 Description | 🧰 Tech Stack |
+|--------|----------------|--------------|
+| [*emotion-classifier-app*](https://github.com/sandysandy-9/emotion-classifier-app) | Detect emotions from text using HuggingFace in a Streamlit web app | Python, NLP, Transformers, Streamlit |
+| [*Student-Performance-Predictor*](https://github.com/sandysandy-9/Student-Performance-Predictor) | Predict students' grades using ML in a Jupyter Notebook | scikit-learn, pandas |
+| [*Human-validator-form*](https://github.com/sandysandy-9/Human-validator-form) | Simple HTML form with basic input validation | HTML, JavaScript |
+| [*sandysandy-9*](https://github.com/sandysandy-9/sandysandy-9) | This profile! | Markdown, GitHub |
+
+---
+
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/parise-sandeep/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://g.dev/sandeep_bharathcollage" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Developers-F4B400?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+  <a href="mailto:parisesandeep27@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-Designs-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💬 Quote I Like
+
+> "Code that cares — building for real people, real impact." 💙
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandysandy-9&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sandysandy-9&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandysandy-9&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sandysandy-9&theme=default" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandysandy-9&theme=default" />
 </p>
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150px" />
+</p>
+
+<p align="center"><i>“Thanks for visiting my profile!”</i></p>
