@@ -72,6 +72,14 @@
 ### 🆕 Latest Projects
 
 <!--START_SECTION:latest_repos-->
+| Project | Description | Tech Used |
+|---|---|---|
+| [agentx](https://github.com/sandysandy-9/agentx) | No description | HTML |
+| [ArogyaSync](https://github.com/sandysandy-9/ArogyaSync) | No description | TypeScript |
+| [studiosandysandy-9-cloakmail-app](https://github.com/sandysandy-9/studiosandysandy-9-cloakmail-app) | No description | TypeScript |
+| [cloakmail-app](https://github.com/sandysandy-9/cloakmail-app) | Full-stack AI Blog application with FastAPI backen... | TypeScript |
+| [Job-Scheduler-Simulator](https://github.com/sandysandy-9/Job-Scheduler-Simulator) | No description | Python |
+
 <!--END_SECTION:latest_repos-->
 
 ### 🚀 Latest Activity
