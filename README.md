@@ -84,7 +84,7 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/sandysandy-9/sandysandy-9/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/sandysandy-9/sandysandy-9/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
