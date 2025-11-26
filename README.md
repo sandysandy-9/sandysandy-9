@@ -60,7 +60,7 @@
 
 ---
 
-### 🛠 Popular Projects
+### 🏆 Featured Projects
 
 | Project | Description | Tech Used |
 |--------|-------------|------------|
@@ -68,6 +68,11 @@
 | [*emotion-classifier-app*](https://github.com/sandysandy-9/emotion-classifier-app) | Interactive emotion classifier web app using Hugging Face Transformers. | Python, Streamlit |
 | [*Student-Performance-Predictor*](https://github.com/sandysandy-9/Student-Performance-Predictor) | Jupyter Notebook that predicts student performance using ML. | Python, ML |
 | [*Human-validator-form*](https://github.com/sandysandy-9/Human-validator-form) | HTML-based form validation example. | HTML, JS |
+
+### 🆕 Latest Projects
+
+<!--START_SECTION:latest_repos-->
+<!--END_SECTION:latest_repos-->
 
 ### 🚀 Latest Activity
 
