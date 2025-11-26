@@ -69,6 +69,19 @@
 | [*Student-Performance-Predictor*](https://github.com/sandysandy-9/Student-Performance-Predictor) | Jupyter Notebook that predicts student performance using ML. | Python, ML |
 | [*Human-validator-form*](https://github.com/sandysandy-9/Human-validator-form) | HTML-based form validation example. | HTML, JS |
 
+### 🚀 Latest Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/sandysandy-9/sandysandy-9/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
 ---
 
 ### 📊 GitHub Stats
