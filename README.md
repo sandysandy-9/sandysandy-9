@@ -74,11 +74,11 @@
 <!--START_SECTION:latest_repos-->
 | Project | Description | Tech Used |
 |---|---|---|
+| [AccuKnox-user-management-tests](https://github.com/sandysandy-9/AccuKnox-user-management-tests) | QA Automation Framework using Python, Playwright, ... | Python |
 | [sandysandy-9.github.io](https://github.com/sandysandy-9/sandysandy-9.github.io) | Sandeep Parise - Python Full Stack Developer & AI/... | HTML |
 | [MARROW-_CLUES_IN_DETECTION_OF_LEUKEMIA](https://github.com/sandysandy-9/MARROW-_CLUES_IN_DETECTION_OF_LEUKEMIA) | it's our final year project we have done Acute Lym... | Jupyter Notebook |
 | [AOI-Creation-Tool](https://github.com/sandysandy-9/AOI-Creation-Tool) | No description | HTML |
 | [agentx](https://github.com/sandysandy-9/agentx) | No description | HTML |
-| [ArogyaSync](https://github.com/sandysandy-9/ArogyaSync) | No description | TypeScript |
 
 <!--END_SECTION:latest_repos-->
 
